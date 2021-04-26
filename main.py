@@ -1,4 +1,4 @@
-from doska import Doska, Ship
+from doska import Game
 
 print("Морской бой")
 
