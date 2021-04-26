@@ -15,7 +15,7 @@ show_doska()
 
 # Gamer = Doska()
 
-# print("На доске должно быть 1 большой (3 точки), 2 средних (2 точки) и 4 маленьких (1 точка) кораблей.")
+print("Игра еще дорабатывается.")
 
 
 # def sh_input(f):
@@ -61,11 +61,6 @@ show_doska()
 #         break
 #     return K
 
-
-# print()
-# big_ship = sh_input(field)
-# med_ship_1 =
-# medium_ship_1 =
 
 game = Game()
 game.start()
